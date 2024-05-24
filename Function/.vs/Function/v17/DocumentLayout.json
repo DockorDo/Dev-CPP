@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\v_runzhiguo\\Documents\\Visual Studio 2022\\Projects\\Function\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA8CE8C-B467-4E73-8287-FAFF2EAC5EC2}|Function\\Function.vcxproj|C:\\Users\\v_runzhiguo\\Documents\\Visual Studio 2022\\Projects\\Function\\Function\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6FA8CE8C-B467-4E73-8287-FAFF2EAC5EC2}|Function\\Function.vcxproj|solutionrelative:Function\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\Users\\v_runzhiguo\\Documents\\Visual Studio 2022\\Projects\\Function\\Function\\Main.cpp",
+              "RelativeDocumentMoniker": "Function\\Main.cpp",
+              "ToolTip": "C:\\Users\\v_runzhiguo\\Documents\\Visual Studio 2022\\Projects\\Function\\Function\\Main.cpp",
+              "RelativeToolTip": "Function\\Main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-24T04:15:47.025Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
