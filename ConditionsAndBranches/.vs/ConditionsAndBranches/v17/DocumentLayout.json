@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\v_runzhiguo\\Desktop\\Dev-CPP\\ConditionsAndBranches\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0481D4E3-02B0-4C9F-A1ED-94ADF5E1F14C}|ConditionsAndBranches\\ConditionsAndBranches.vcxproj|C:\\Users\\v_runzhiguo\\Desktop\\Dev-CPP\\ConditionsAndBranches\\ConditionsAndBranches\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0481D4E3-02B0-4C9F-A1ED-94ADF5E1F14C}|ConditionsAndBranches\\ConditionsAndBranches.vcxproj|solutionrelative:ConditionsAndBranches\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0481D4E3-02B0-4C9F-A1ED-94ADF5E1F14C}|ConditionsAndBranches\\ConditionsAndBranches.vcxproj|C:\\Users\\v_runzhiguo\\Desktop\\Dev-CPP\\ConditionsAndBranches\\ConditionsAndBranches\\Log.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0481D4E3-02B0-4C9F-A1ED-94ADF5E1F14C}|ConditionsAndBranches\\ConditionsAndBranches.vcxproj|solutionrelative:ConditionsAndBranches\\Log.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0481D4E3-02B0-4C9F-A1ED-94ADF5E1F14C}|ConditionsAndBranches\\ConditionsAndBranches.vcxproj|C:\\Users\\v_runzhiguo\\Desktop\\Dev-CPP\\ConditionsAndBranches\\ConditionsAndBranches\\Log.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0481D4E3-02B0-4C9F-A1ED-94ADF5E1F14C}|ConditionsAndBranches\\ConditionsAndBranches.vcxproj|solutionrelative:ConditionsAndBranches\\Log.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Log.h",
+              "DocumentMoniker": "C:\\Users\\v_runzhiguo\\Desktop\\Dev-CPP\\ConditionsAndBranches\\ConditionsAndBranches\\Log.h",
+              "RelativeDocumentMoniker": "ConditionsAndBranches\\Log.h",
+              "ToolTip": "C:\\Users\\v_runzhiguo\\Desktop\\Dev-CPP\\ConditionsAndBranches\\ConditionsAndBranches\\Log.h",
+              "RelativeToolTip": "ConditionsAndBranches\\Log.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-24T08:25:43.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Log.cpp",
+              "DocumentMoniker": "C:\\Users\\v_runzhiguo\\Desktop\\Dev-CPP\\ConditionsAndBranches\\ConditionsAndBranches\\Log.cpp",
+              "RelativeDocumentMoniker": "ConditionsAndBranches\\Log.cpp",
+              "ToolTip": "C:\\Users\\v_runzhiguo\\Desktop\\Dev-CPP\\ConditionsAndBranches\\ConditionsAndBranches\\Log.cpp",
+              "RelativeToolTip": "ConditionsAndBranches\\Log.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-24T08:24:55.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\Users\\v_runzhiguo\\Desktop\\Dev-CPP\\ConditionsAndBranches\\ConditionsAndBranches\\Main.cpp",
+              "RelativeDocumentMoniker": "ConditionsAndBranches\\Main.cpp",
+              "ToolTip": "C:\\Users\\v_runzhiguo\\Desktop\\Dev-CPP\\ConditionsAndBranches\\ConditionsAndBranches\\Main.cpp",
+              "RelativeToolTip": "ConditionsAndBranches\\Main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-24T08:20:43.789Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
